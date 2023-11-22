@@ -1,3 +1,3 @@
 # my-website
 
-This is a really awesome file.
+This is a really awesome website.
